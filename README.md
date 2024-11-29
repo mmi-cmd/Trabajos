@@ -10,7 +10,7 @@ Juego SuperHero:  [Enlace al repositorio del juego.](https://github.com/mmi-cmd/
 
 También, incluyo los apuntes tomados durante las charlas por el día del programador:
 
-Día del programador:  [Enlace al notion dia del programador.](https://github.com/mmi-cmd/Proyecto-java/compare/master...JoseDA1%3AProyecto-java%3Amaster](https://lying-cello-ac6.notion.site/D-a-de-la-programaci-n-b5b87a3334c640a6b3d95859db528086)
+Día del programador:  [Enlace al notion dia del programador.](https://acortar.link/gPENTw)
 
 
 Michell Juliana Pérez Gómez - 192354
