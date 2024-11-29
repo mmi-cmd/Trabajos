@@ -5,7 +5,7 @@ Adicionalmente, se incluyen enlaces a otros proyectos realizados durante el curs
 
 Gestor de notas: [Enlace al repositorio del gestor de notas.](https://github.com/mmi-cmd/Proyecto-java/compare/master...JoseDA1%3AProyecto-java%3Amaster)
 
-Juego SuperHero:  [Enlace al repositorio del gestor del juego.](https://github.com/mmi-cmd/JuegoSuperhero/tree/main/Juego/Juego_SH/src)
+Juego SuperHero:  [Enlace al repositorio del juego.](https://github.com/mmi-cmd/JuegoSuperhero/tree/main/Juego/Juego_SH/src)
 
 
 
