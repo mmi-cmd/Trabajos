@@ -3,9 +3,9 @@ En este repositorio se encuentran recopiladas todas las prácticas desarrolladas
 
 Adicionalmente, se incluyen enlaces a otros proyectos realizados durante el curso, como el juego de superhéroes y el programa de gestión de notas. Estos proyectos están alojados en repositorios independientes, para acceder a ellos:
 
-Juego SuperHero: [Enlace al repositorio del gestor de notas.](https://github.com/mmi-cmd/Proyecto-java/compare/master...JoseDA1%3AProyecto-java%3Amaster)
+Gestor de notas: [Enlace al repositorio del gestor de notas.](https://github.com/mmi-cmd/Proyecto-java/compare/master...JoseDA1%3AProyecto-java%3Amaster)
 
-Gestor de notas:  [Enlace al repositorio del gestor del juego.](https://github.com/mmi-cmd/JuegoSuperhero/tree/main/Juego/Juego_SH/src)
+Juego SuperHero:  [Enlace al repositorio del gestor del juego.](https://github.com/mmi-cmd/JuegoSuperhero/tree/main/Juego/Juego_SH/src)
 
 
 
